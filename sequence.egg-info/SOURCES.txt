@@ -1,0 +1,9 @@
+README.md
+bin/sequence
+sequence/__init__.py
+sequence/rates.py
+sequence/sequence.py
+sequence.egg-info/PKG-INFO
+sequence.egg-info/SOURCES.txt
+sequence.egg-info/dependency_links.txt
+sequence.egg-info/top_level.txt

@@ -1,2 +1,3 @@
-# earthquake-sequence
-Detect and report on earthquake sequences found in ComCat.
+# aftershocks
+
+Code to create an aftershocks product
